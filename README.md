@@ -53,7 +53,7 @@ This project presents an exploratory data analysis (EDA) of a marketing campaign
 
 ## 🚀 Future Work
 
-- Examine atypical (outliers) observations on variables like constact time and number of contacts. This might give new insights about customer engagement.
+- Examine atypical (outliers) observations on variables like contact time and number of contacts. This might give new insights about customer engagement.
 - Extend the project to include predictive modeling (logistic regression or decision trees).
 - Build a dashboard in PowerBI for interactive exploration.
 
